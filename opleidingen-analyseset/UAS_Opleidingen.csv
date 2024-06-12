@@ -1,0 +1,88 @@
+Veldnaam;Veldnaam_export;In_gebruik;Veldtype;p_na;lower;upper;pattern;Uniek;Opmerkingen;
+;Bestandspad;FALSE;character;8,654661828;NA;NA;[A-Z]{2};FALSE;;
+UAS_Opleiding_Jaar;UAS_Jaar;TRUE;numeric;8,654661828;1812,6;2223,1;NA;FALSE;;
+;Extern ID;FALSE;integer;8,654661828;45039211,2;57277730,4;NA;FALSE;;
+UAS_Opleiding_Code;Code;TRUE;character;8,654661828;NA;NA;NA;FALSE;;
+UAS_Opleiding_Naam_NL;Naam (NL);TRUE;character;8,654661828;NA;NA;NA;FALSE;Naam in Nederlands, altijd ingevuld;
+UAS_Opleiding_Naam_EN;Naam (EN);TRUE;character;8,654661828;NA;NA;NA;FALSE;Naam in Engels, altijd ingevuld;
+UAS_Opleiding_Fase;Type;TRUE;subset;9,175063957;NA;NA;NA;FALSE;De fase van de opleiding;'Bachelor', 'Master', 'Premaster', 'Exchange', 'Post Graduate', 'Overige niet-regulier', 'PIM'
+UAS_Opleiding_Faculteit;Faculteit;TRUE;character;8,654661828;NA;NA;[0-9]{4};FALSE;Faculteit, inclusief code;'(1000) Faculteit der Godgeleerdheid', '(1100) Faculteit der Geesteswetenschappen (Wys)', '(1300) Faculteit der Geesteswetenschappen (Let)', '(1400) Faculteit der Rechtsgeleerdheid', '(1600) ACTA', '(2400) Faculteit der Bewegingswetenschappen', '(2500) Fac. der Gedrags- en Bewegingswetensch.', '(2600) Faculteit der Sociale Wetenschappen', '(2700) Fac. der Economische Wet. en Bedrijfsk.', '(2800) Faculteit der Exacte Wetenschappen', '(2900) Fac. der Aard- en Levenswetenschappen', '(4700) Onderwijscentrum VU', '(5300) Student- & Onderwijszaken', '(9200) VUmc', '(1300) Faculteit der Geesteswetenschappen', '(2700) School of Business and Economics', '(1000) Faculteit Religie en Theologie', '(2900) Faculteit der BÃ¨tawetenschappen', '(9200) Faculteit der Geneeskunde'
+;Afdeling;TRUE;character;118,6546618;NA;NA;NA;FALSE;Afdeling, inclusief code (wordt verder weinig gebruikt);
+UAS_Opleiding_Gaat_vervallen;Gaat vervallen;TRUE;character;8,654661828;NA;NA;NA;FALSE;Indien bekend wordt hier aangegeven dat opleiding wordt beëindigd;'Nee', 'Ja'
+;Curriculum;FALSE;character;18,67240281;NA;NA;NA;FALSE;;Uitvraag beeindigd', 'Nog niet geopend', 'Invoeren curriculum (OLD)', 'Uitgesloten van uitvraag'
+;Import datum;FALSE;character;23,16087117;NA;NA;NA;FALSE;;
+;Opleidingsdirecteur (changes);FALSE;character;8,654661828;NA;NA;NA;FALSE;;
+;Opleidingscoordinator (changes);FALSE;character;8,654661828;NA;NA;NA;FALSE;;
+;Opleidingscommissie (changes);FALSE;character;8,654661828;NA;NA;NA;FALSE;;
+;Leerdoelen;FALSE;character;118,6546618;NA;NA;NA;FALSE;Helaas leeg;
+;ISAT;FALSE;character;118,6546618;NA;NA;NA;FALSE;Helaas leeg;
+;sector;FALSE;character;118,6546618;NA;NA;NA;FALSE;Helaas leeg;
+;Advies door;FALSE;character;96,86282268;NA;NA;NA;FALSE;Vaak leeg;
+;Datum advies;FALSE;character;96,86282268;NA;NA;NA;FALSE;Vaak leeg;
+;Akkoord;FALSE;character;96,86282268;NA;NA;NA;FALSE;Vaak leeg;'Ja', 'Nee'
+;Advies;FALSE;character;100,5056376;NA;NA;NA;FALSE;;
+UAS_Opleiding_Startmoment;periodVariantId;TRUE;character;8,654661828;NA;NA;NA;FALSE;Het moment waarop opleiding kan worden gestart;'September', 'September+Februari', 'Uitwisseling', 'Februari', 'Maandelijks'
+UAS_Opleiding_Accredatie_datum;Accredatie datum;TRUE;character;46,31876591;NA;NA;NA;FALSE;;
+UAS_Opleiding_Aanmeld_deadline;Aanmeld deadline;TRUE;character;60,17447259;NA;NA;NA;FALSE;Helaas vaak leeg;
+UAS_Opleiding_Docenten_opleiding;Soort;TRUE;character;24,0715749;NA;NA;NA;FALSE;;'Geen docentenopleiding', 'Docentenopleiding'
+UAS_Opleiding_Type_studie_advies;Type studie advies;TRUE;character;97,38322481;NA;NA;NA;FALSE;BSA of niet, vanaf 2015 ingevuld;'BSA'
+;Diploma variant;FALSE;character;47,42462043;NA;NA;NA;FALSE;;'Lettertype klein', 'Lettertype groot', 'ZLERAAR', 'ZOWC', 'ZBULFEWEB', 'ZGNKMASTER', 'Lerarenopleiding met schoolvak'
+;Diploma taal;FALSE;character;86,0644785;NA;NA;NA;FALSE;Vaak leeg;'Nederlands', 'Engels'
+;Taal supplement;FALSE;character;65,70374521;NA;NA;NA;FALSE;;'Engels', 'Nederlands'
+UAS_Opleiding_Opleidingsstructuur;Opleidingsonderdeel variant;TRUE;subset;24,0715749;NA;NA;NA;FALSE;"Structuur, vaak ""Leeg"" of NA";'1 Specialisatie', 'Leeg', '1 Spec + 1 Minor', '1 Minor', '1 Major', '1 Major + 1 Minor', '036', '3 Spec', '2 Specailisaties', '1 Spec + 1 Maj + 1 Min'
+UAS_Opleiding_Onderwijstaal;Taal van onderwijs;TRUE;character;31,42225497;NA;NA;NA;FALSE;20% van de gevallen leeg, steeds beter gevuld;'Nederlands (NL)', 'Engels (EN)', 'Tweetalig (Z1)'
+UAS_Opleiding_EC_norm_positief_resultaat;EC Norm. Positief Resultaat;TRUE;numeric;24,0715749;NA;NA;NA;FALSE;Vanaf 2015 vaak gevuld;'00', '60', '42'
+UAS_Opleiding_EC_norm_voorw_pos_resultaat;EC Norm. Voorw. Pos. R;TRUE;numeric;24,0715749;NA;NA;NA;FALSE;Vanaf 2015 vaak gevuld;'00', '42', '60', '40', '48', '54'
+;BSA uitsluiting;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+UAS_Opleiding_Duur_blokeerperiode;Duur blokeerperiode;TRUE;character;24,0715749;NA;NA;NA;FALSE;Aantal jaar wat student moet wachten voordat deze opnieuw kan beginnnen na negatief BSA;'00', '03', '05'
+;Top studie;FALSE;character;24,0715749;NA;NA;NA;FALSE;Bijna altijd leeg, nooit ja;'Nee'
+UAS_Opleiding_Aanmelden_via_portaal;Aanmelden via portaal;TRUE;character;24,0715749;NA;NA;NA;FALSE;;'Ja', 'Nee'
+UAS_Opleiding_Joint_degree;Joint degree;TRUE;character;24,0715749;NA;NA;NA;FALSE;;'Nee', 'Ja'
+;Intensief programma;FALSE;character;24,0715749;NA;NA;NA;FALSE;"Alleen ""B Philosophy, Politics and Economics"" heeft Ja";'Nee', 'Ja'
+UAS_Opleiding_Export_web_opleiding;Export web catalogus;TRUE;character;24,0715749;NA;NA;NA;FALSE;Nee is vaak post-graduate of joint degree opleiding;'Ja', 'Nee'
+;Afstudeer status;FALSE;character;24,0715749;NA;NA;NA;FALSE;Nee of leeg;'Nee'
+;Minimum (EC);FALSE;numeric;28,69014379;NA;NA;NA;FALSE;Is heel vaak 0;'180', '60', '120', '0', '30'
+UAS_Opleiding_maximum_EC;Maximum (EC);TRUE;numeric;28,69014379;NA;NA;NA;FALSE;Ook dit heeft afwijkende waarden;'180', '60', '120', '999', '30', '0', '62', '66', '63', '61', '36'
+;Minimum;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Optimum;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Maximum;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Kaderbedrag;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Budget;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Vrije keuze;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+;Over van budget;FALSE;character;118,6546618;NA;NA;NA;FALSE;Altijd leeg;
+UAS_Opleiding_Lange_opleidingsnaam_EN;Lange naam (studiegids, diplomasupplement) (EN);TRUE;character;64,40273989;NA;NA;NA;FALSE;Vaker niet ingevuld dan naam (zie boven), maar wel officiële naam, dus handig om te bewaren;
+UAS_Opleiding_Lange_opleidingsnaam_NL;Lange naam (studiegids, diplomasupplement) (NL);TRUE;character;55,1656021;NA;NA;NA;FALSE;Vaker niet ingevuld dan naam (zie boven), maar wel officiële naam, dus handig om te bewaren;
+;Overige faculteit JD (EN);FALSE;character;115,7924501;NA;NA;NA;FALSE;Vaak leeg, en talig;
+;Overige faculteit JD (NL);FALSE;character;117,4187068;NA;NA;NA;FALSE;Vaak leeg, en talig;
+UAS_Opleiding_Structuur_van_opleiding_EN;Structuur van opleiding (diplomasupplement) (EN);TRUE;character;44,56240872;NA;NA;NA;FALSE;Talig;
+UAS_Opleiding_Structuur_van_opleiding_NL;Structuur van opleiding (diplomasupplement) (NL);TRUE;character;73,11947555;NA;NA;NA;FALSE;Talig;
+;Omschrijving vakgebied (diplomasupplement) (EN);TRUE;character;65,50859441;NA;NA;NA;FALSE;Talig;
+;Omschrijving vakgebied (diplomasupplement) (NL);TRUE;character;88,47133835;NA;NA;NA;FALSE;Talig;
+;Toelatingsvoorwaarden (diplomasupplement) (EN);TRUE;character;41,89534781;NA;NA;NA;FALSE;Talig;
+;Toelatingsvoorwaarden (diplomasupplement) (NL);TRUE;character;70,12716331;NA;NA;NA;FALSE;Talig;
+;Verdere studie (diplomasupplement) (EN);TRUE;character;41,50504622;NA;NA;NA;FALSE;Talig;
+;Verdere studie (diplomasupplement) (NL);TRUE;character;68,89120825;NA;NA;NA;FALSE;Talig;
+;Omschrijving verdere informatie (diplomasupplement) (EN);TRUE;character;94,78121416;NA;NA;NA;FALSE;Talig;
+;Omschrijving verdere informatie (diplomasupplement) (NL);TRUE;character;105,5145081;NA;NA;NA;FALSE;Talig;
+;Omschrijving opleidingsduur (diplomasupplement) (EN);TRUE;character;41,43999595;NA;NA;NA;FALSE;Talig;
+;Omschrijving opleidingsduur (diplomasupplement) (NL);TRUE;character;70,32231411;NA;NA;NA;FALSE;Talig;
+;Omschrijving arbeidsmarkt (diplomasupplement) (EN);FALSE;character;41,50504622;NA;NA;NA;FALSE;Talig;
+;Omschrijving arbeidsmarkt (diplomasupplement) (NL);FALSE;character;67,85040399;NA;NA;NA;FALSE;Talig;
+;9124 (EN);TRUE;character;115,4671988;NA;NA;NA;FALSE;Talig;
+;9124 (NL);TRUE;character;117,7439581;NA;NA;NA;FALSE;Talig;
+;9123 (EN);TRUE;character;115,4671988;NA;NA;NA;FALSE;Talig;
+;9123 (NL);TRUE;character;116,9633549;NA;NA;NA;FALSE;Talig;
+;Beleidsafspraken (EN);TRUE;character;73,90007874;NA;NA;NA;FALSE;Talig;
+;Beleidsafspraken (NL);TRUE;character;73,96512901;NA;NA;NA;FALSE;Talig;
+;Lange naam (studiegids, diploma, diplomasupplement) (EN);TRUE;character;83,46246786;NA;NA;NA;FALSE;Talig;
+;Lange naam (studiegids, diploma, diplomasupplement) (NL);TRUE;character;82,55176413;NA;NA;NA;FALSE;Talig;
+;Opleidingsdirecteur;TRUE;character;21,27441345;NA;NA;NA;FALSE;Namen, liever niet gebruiken, we hebben ook id's;
+;Opleidingscoordinator;TRUE;character;88,73153942;NA;NA;NA;FALSE;Namen, liever niet gebruiken, we hebben ook id's;
+;Opleidingscommissie;TRUE;character;94,65111363;NA;NA;NA;FALSE;Namen, liever niet gebruiken, we hebben ook id's;
+UAS_Opleiding_Opleidingsdirecteur_ID;Opleidingsdirecteur (id);TRUE;character;21,27441345;NA;NA;NA;FALSE;;
+UAS_Opleiding_Opleidingscoordinator_ID;Opleidingscoordinator (id);TRUE;character;88,73153942;NA;NA;NA;FALSE;Pas laatste jaren gevuld;
+UAS_Opleiding_Opleidingscommissie_ID;Opleidingscommissie (id);TRUE;character;94,65111363;NA;NA;NA;FALSE;Pas laatste jaren gevuld;
+;Opleidingsdirecteur (email);TRUE;character;111,0437807;NA;NA;NA;FALSE;Email, liever niet gebruiken, we hebben ook id's;
+;Opleidingscoordinator (email);TRUE;character;113,9059924;NA;NA;NA;FALSE;Email, liever niet gebruiken, we hebben ook id's;
+;Opleidingscommissie (email);TRUE;character;117,3536565;NA;NA;NA;FALSE;Email, liever niet gebruiken, we hebben ook id's;
+UAS_Opleiding_Beleidsafspraken_roostering;Beleidsafspraken roostering;TRUE;character;107,6611669;NA;NA;NA;FALSE;Pas vanaf 2021 gevuld;

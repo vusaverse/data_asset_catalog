@@ -1,0 +1,23 @@
+Veldnaam;Veldnaam_export;In_gebruik;Veldtype;p_na;lower;upper;pattern;Uniek
+INS_Studierichting;Studierichting;TRUE;character;0;;;;FALSE
+INS_Studieprogramma_CD;Studierichting_cd;TRUE;character;0;;;;FALSE
+RES_Studieprogramma_ID;Studierichting_id;TRUE;numeric;0;50000000;53000000;;TRUE
+INS_Soort_onderwijs;Soort_onderwijs_cd;TRUE;character;0;;;;FALSE
+INS_Opleidingscode_actueel;CROHO-code;TRUE;numeric;0;50000;70000;;TRUE
+INS_Opleidingscode_Z08;CROHO-code Z08;TRUE;numeric;0;50000;70000;;TRUE
+INS_Opleidingsnaam_Z08;CROHO-code Z08 - Lange tekst;TRUE;character;0;;;;FALSE
+INS_Faculteit_academisch_jaar;Faculteit Academisch jaar;TRUE;character;0;;;;FALSE
+INS_Faculteit_academisch_jaar_CD;FaculteitCd  Academisch jaar;TRUE;numeric;0;;;;FALSE
+INS_Faculteit_laatst_bekend;Faculteit laatst bekend;TRUE;character;0;;;;FALSE
+INS_Faculteit_laatst_bekend_CD;FaculteitCd laatst bekend;TRUE;numeric;0;;;;FALSE
+INS_Inschrijvingsjaar;Academisch jaar;TRUE;numeric;0;2010;2030;;TRUE
+INS_Opleidingscode_actueel;CROHO_OPLEIDING_CD;FALSE;numeric;18;;;;TRUE
+Opleidingnaam_SAP;OPLEIDINGNAAM;FALSE;character;0;;;;TRUE
+INS_Opleidingsnaam_2002;OPLNAAM2002;FALSE;character;17,76824;;;;FALSE
+Studieprogramma_CD;STUDIERICHTING_CD;FALSE;character;0;;;;TRUE
+RES_Studieprogramma_ID;STUDIERICHTING_ID;FALSE;character;0;;;;FALSE
+INS_Faculteit;FACULTEIT;FALSE;subset;17,76824;;;;FALSE
+Faculteit_code_naam_SAP;FAC1;FALSE;character;0;;;;FALSE
+Faculteit_naam_SAP;FAC2;FALSE;character;0;;;;FALSE
+Soort_onderwijs;SAP_SOORT_ONDERWIJS_CD;FALSE;character;0;;;;FALSE
+INS_Inschrijvingsjaar;ACAD_JAARPERIODE_JAAR_CD;FALSE;numeric;0;;;;TRUE
