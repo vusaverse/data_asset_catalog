@@ -1,0 +1,12 @@
+preferred_field_name,type_of_variable,percentage_of_missing_values
+VU_mpg,numeric,0
+VU_cyl,numeric,0
+VU_disp,numeric,0
+VU_hp,numeric,0
+VU_drat,numeric,0
+VU_wt,numeric,0
+VU_qsec,numeric,0
+VU_vs,numeric,0
+VU_am,numeric,0
+VU_gear,numeric,0
+VU_carb,numeric,0
