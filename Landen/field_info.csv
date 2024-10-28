@@ -1,0 +1,16 @@
+preferred_field_name;raw_field_name;in_use
+Global Code;Global Code;TRUE
+Global Name;Global Name;TRUE
+Region Code;Region Code;TRUE
+BUI_VN_regio;Region Name;TRUE
+Sub-region Code;Sub-region Code;TRUE
+BUI_VN_subregio;Sub-region Name;TRUE
+Intermediate Region Code;Intermediate Region Code;TRUE
+BUI_VN_tussenregio;Intermediate Region Name;TRUE
+BUI_VN_land;Country or Area;TRUE
+M49 Code;M49 Code;TRUE
+BUI_VN_landcode_ISO_alpha3;ISO-alpha3 Code;TRUE
+BUI_VN_minst_ontwikkelde_landen;Least Developed Countries (LDC);TRUE
+Land Locked Developing Countries (LLDC);Land Locked Developing Countries (LLDC);TRUE
+Small Island Developing States (SIDS);Small Island Developing States (SIDS);TRUE
+BUI_VN_ontwikkelingsland;Developed / Developing Countries;TRUE

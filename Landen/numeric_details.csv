@@ -1,0 +1,16 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+Global Code;NA;NA;1;1;1;1,0;0,0
+Global Name;NA;NA;NA;NA;NA;NA;NA
+Region Code;NA;NA;9;19;142;66,0;67,4
+BUI_VN_regio;NA;NA;NA;NA;NA;NA;NA
+Sub-region Code;NA;NA;54;154;202;180,0;138,0
+BUI_VN_subregio;NA;NA;NA;NA;NA;NA;NA
+Intermediate Region Code;NA;NA;11;14;29;39,1;135,0
+BUI_VN_tussenregio;NA;NA;NA;NA;NA;NA;NA
+BUI_VN_land;NA;NA;NA;NA;NA;NA;NA
+M49 Code;NA;NA;222;438;654;436,0;253,0
+BUI_VN_landcode_ISO_alpha3;NA;NA;NA;NA;NA;NA;NA
+BUI_VN_minst_ontwikkelde_landen;NA;NA;NA;NA;NA;NA;NA
+Land Locked Developing Countries (LLDC);NA;NA;NA;NA;NA;NA;NA
+Small Island Developing States (SIDS);NA;NA;NA;NA;NA;NA;NA
+BUI_VN_ontwikkelingsland;NA;NA;NA;NA;NA;NA;NA

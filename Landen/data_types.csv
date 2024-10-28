@@ -1,0 +1,16 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+Global Code;character;0,00
+Global Name;character;0,00
+Region Code;character;0,40
+BUI_VN_regio;character;0,40
+Sub-region Code;character;0,40
+BUI_VN_subregio;character;0,40
+Intermediate Region Code;character;56,63
+BUI_VN_tussenregio;character;56,63
+BUI_VN_land;character;0,00
+M49 Code;character;0,00
+BUI_VN_landcode_ISO_alpha3;character;0,40
+BUI_VN_minst_ontwikkelde_landen;character;81,12
+Land Locked Developing Countries (LLDC);character;87,15
+Small Island Developing States (SIDS);character;78,71
+BUI_VN_ontwikkelingsland;character;0,40
