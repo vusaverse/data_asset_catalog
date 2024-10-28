@@ -1,0 +1,9 @@
+preferred_field_name;raw_field_name;in_use
+BSA_Student_ID;Student_object_ID;TRUE
+RES_Studieprogramma_ID;Studieprogramma_ID;TRUE
+BSA_Studie_ID;Studie_ID;TRUE
+BSA_Begindatum;Begin_datum;TRUE
+BSA_Einddatum;Eind_datum;TRUE
+BSA_Auditdatum;Audit_datum;TRUE
+BSA_Status_omschrijving;Status_omschrijving;TRUE
+BSA_Actief;Actief;TRUE

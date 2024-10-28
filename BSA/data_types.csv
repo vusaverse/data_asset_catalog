@@ -1,0 +1,9 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+BSA_Student_ID;numeric;0,00
+RES_Studieprogramma_ID;numeric;0,00
+BSA_Studie_ID;numeric;0,00
+BSA_Begindatum;integer;0,00
+BSA_Einddatum;integer;0,00
+BSA_Auditdatum;integer;0,00
+BSA_Status_omschrijving;character;0,00
+BSA_Actief;character;13,14
