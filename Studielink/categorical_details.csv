@@ -1,0 +1,25 @@
+preferred_field_name;category_1;percent_1;category_2;percent_2;category_3;percent_3;category_4;percent_4;category_5;percent_5
+SLK_Opleiding_start_maand;SEP;97.99;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Faculteit_omschrijving;2900 Faculteit der Bètawetenschappen;30.78;2700 School of Business and Economics;16.92;1300 Faculteit der Geesteswetenschappen;12.77;2500 Fac. der Gedrags- en Bewegingswetensch.;11.09;1400 Faculteit der Rechtsgeleerdheid;10.54
+Studierichting;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_EER;NL;45.42;NIET-EER;27.95;EER;25.27;NA;NA;NA;NA
+SLK_Geslacht;Vrouw;53.83;Man;45.69;NA;NA;NA;NA;NA;NA
+SLK_Student_geschiedenis_kort_categorie;1;27.86;4;18.89;5;16.93;#;13.81;6;12.94
+SLK_Student_geschiedenis_lang_categorie;1;27.86;3;17.51;#;13.81;6;12.94;4;10.6
+Brede universiteit;Brede universiteit;100;NA;NA;NA;NA;NA;NA;NA;NA
+BRIN nummer - Key;21PL;100;NA;NA;NA;NA;NA;NA;NA;NA
+BRIN nummer;Vrije Universiteit Amsterdam;100;NA;NA;NA;NA;NA;NA;NA;NA
+Sorteer volgorde;01;100;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Opleidingsnaam_CROHO;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Opleidingsnaam_Z08;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Fixus;N;95.38;NA;NA;NA;NA;NA;NA;NA;NA
+HBO_WO;WO opleiding;84.23;W;15.77;NA;NA;NA;NA;NA;NA
+SLK_Opleidingsvorm;Voltijd;94.62;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Opleidings_fase;Master;59.36;Bachelor;40.64;NA;NA;NA;NA;NA;NA
+SLK_Herinschrijving;N;85.56;J;10.23;NA;NA;NA;NA;NA;NA
+SLK_Hogerejaars;N;83.42;J;16.58;NA;NA;NA;NA;NA;NA
+SLK_Status_aanmelding;Verzoek;45.99;Annulering / afwijzing;37.83;Inschrijving;16.01;NA;NA;NA;NA
+BRIN volgnummer - Key;21PL/#;100;NA;NA;NA;NA;NA;NA;NA;NA
+BRIN volgnummer;"Vrije Univ. Amsterdam; Amsterdam";100;NA;NA;NA;NA;NA;NA;NA;NA
+SLK_Sector;#;70.53;NATUUR;7.43;GEDRAG EN MAATSCHAPPIJ;5.82;NA;NA;NA;NA
+SLK_Aantal_aanmeldingen_gewogen;1,000;25.14;,500;10.3;2,000;6.26;,333;5.54;NA;NA

@@ -1,0 +1,33 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+SLK_Academisch_jaar;numeric;0
+SLK_Opleiding_start_maand;character;0
+SLK_Kalenderweken;numeric;0
+SLK_Week_vanaf_1okt;numeric;0
+SLK_Faculteit_omschrijving;character;0
+Studierichting;character;0
+SLK_EER;character;0
+SLK_Geslacht;character;0
+SLK_Student_geschiedenis_kort_categorie;character;0
+SLK_Student_geschiedenis_lang_categorie;character;0
+Brede universiteit;character;0
+BRIN nummer - Key;character;0
+BRIN nummer;character;0
+Sorteer volgorde;character;0
+SLK_Opleidingscode_CROHO;numeric;0
+SLK_Opleidingsnaam_CROHO;character;0
+SLK_Opleidingscode_Z08;numeric;0
+SLK_Opleidingsnaam_Z08;character;0
+SLK_Fixus;character;0
+HBO_WO;character;0
+SLK_Opleidingsvorm;character;0
+SLK_Opleidings_fase;character;0
+SLK_Herinschrijving;character;0
+SLK_Hogerejaars;character;0
+SLK_Status_aanmelding;character;0
+BRIN volgnummer - Key;character;0
+BRIN volgnummer;character;0
+SLK_Sector;character;0
+SLK_Aantal_aanmeldingen_ongewogen;numeric;0
+SLK_Aantal_aanmeldingen_gewogen;character;0
+SLK_Aantal_inschrijfverzoeken;numeric;0
+SLK_Aantal_aanmeldingen_geannuleerd;numeric;0

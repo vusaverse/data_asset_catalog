@@ -1,0 +1,33 @@
+preferred_field_name;raw_field_name;in_use
+SLK_Academisch_jaar;Academisch jaar;TRUE
+SLK_Opleiding_start_maand;Kalendermaand;TRUE
+SLK_Kalenderweken;Week nummer JW;TRUE
+SLK_Week_vanaf_1okt;Week nummer SW;TRUE
+SLK_Faculteit_omschrijving;Faculteit;TRUE
+Studierichting;Studierichting;FALSE
+SLK_EER;EER;TRUE
+SLK_Geslacht;Geslacht;TRUE
+SLK_Student_geschiedenis_kort_categorie;1cHO_K;TRUE
+SLK_Student_geschiedenis_lang_categorie;1cHO_L;TRUE
+Brede universiteit;Brede universiteit;FALSE
+BRIN nummer - Key;BRIN nummer - Key;FALSE
+BRIN nummer;BRIN nummer;FALSE
+Sorteer volgorde;Sorteer volgorde;FALSE
+SLK_Opleidingscode_CROHO;CROHO-code - Key;TRUE
+SLK_Opleidingsnaam_CROHO;CROHO-code;TRUE
+SLK_Opleidingscode_Z08;CROHO-code Z08 - Key;TRUE
+SLK_Opleidingsnaam_Z08;CROHO-code Z08;TRUE
+SLK_Fixus;Fixus;TRUE
+HBO_WO;HBO_WO;FALSE
+SLK_Opleidingsvorm;Opleidingsvorm;TRUE
+SLK_Opleidings_fase;Opleiding Fase;TRUE
+SLK_Herinschrijving;Herinschrijving;TRUE
+SLK_Hogerejaars;Hogerejaars;TRUE
+SLK_Status_aanmelding;Status;TRUE
+BRIN volgnummer - Key;BRIN volgnummer - Key;FALSE
+BRIN volgnummer;BRIN volgnummer;FALSE
+SLK_Sector;Sector;TRUE
+SLK_Aantal_aanmeldingen_ongewogen;Aantal ongewogen aanmeldingen;TRUE
+SLK_Aantal_aanmeldingen_gewogen;Aantal gewogen aanmeldingen;TRUE
+SLK_Aantal_inschrijfverzoeken;Aanatal Inschrijfver;TRUE
+SLK_Aantal_aanmeldingen_geannuleerd;Aantal geannuleerde;TRUE
