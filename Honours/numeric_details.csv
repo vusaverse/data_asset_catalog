@@ -1,0 +1,11 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+INS_Studentnummer;;;;;;;
+HNP_Honours_programma_startjaar;2008/2009;2021/2022;NA;NA;NA;NA;NA
+ACAD_JAAR_OMS;2008/2009;2022/2023;NA;NA;NA;NA;NA
+INS_Opleidingscode_actueel;50007;66551;50950,00;56560;56869;55856;4701
+INS_Opleidingsnaam_2002;B Aarde, Economie en Duurzaamheid;M Geneeskunde;NA;NA;NA;NA;NA
+INS_Faculteit;BETA;THK;NA;NA;NA;NA;NA
+HNP_Honours_programma_begonnen;1;1;1,00;1;1;1;0
+HNP_Honours_programma_geslaagd;1;1;1,00;1;1;1;0
+HNP_Honours_programma_gestaakt;1;1;1,00;1;1;1;0
+HNP_Honours_programma_actief;1;1;1,00;1;1;1;0

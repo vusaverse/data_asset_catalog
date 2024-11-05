@@ -1,0 +1,11 @@
+preferred_field_name;raw_field_name;in_use
+INS_Studentnummer;STUDENT_CD;TRUE
+HNP_Honours_programma_startjaar;ACAD_JAAR_START_STATUS_ACTIEF;TRUE
+ACAD_JAAR_OMS;ACAD_JAAR_OMS;FALSE
+INS_Opleidingscode_actueel;CROHO_OPLEIDING_CD;TRUE
+INS_Opleidingsnaam_2002;OPLNAAM2002;TRUE
+INS_Faculteit;FAC;TRUE
+HNP_Honours_programma_begonnen;INSTROOM;TRUE
+HNP_Honours_programma_geslaagd;GESLAAGD;TRUE
+HNP_Honours_programma_gestaakt;GESTAAKT;TRUE
+HNP_Honours_programma_actief;AKTIEF;TRUE

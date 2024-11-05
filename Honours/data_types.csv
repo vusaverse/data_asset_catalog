@@ -1,0 +1,11 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+INS_Studentnummer;integer;0,00
+HNP_Honours_programma_startjaar;character;0,00
+ACAD_JAAR_OMS;character;0,00
+INS_Opleidingscode_actueel;integer;1,23
+INS_Opleidingsnaam_2002;character;1,23
+INS_Faculteit;character;0,00
+HNP_Honours_programma_begonnen;integer;55,12
+HNP_Honours_programma_geslaagd;integer;80,88
+HNP_Honours_programma_gestaakt;integer;86,25
+HNP_Honours_programma_actief;integer;36,25
