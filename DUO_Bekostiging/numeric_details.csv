@@ -1,0 +1,35 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+DUO_Begin_inschrijving_datum;01.09.2021;30.09.2022;NA;NA;NA;NA;NA
+Bekostiging versie;VERSIE2023.DEFINITIEF;VERSIE2024.DEFINITIEF;NA;NA;NA;NA;NA
+Bekostigingscode;BEKOSTIGD;BEKOSTIGD;NA;NA;NA;NA;NA
+DUO_Bekostigingsduur;12;48;24,00;36,0;36,00;29,10;10,20
+DUO_Bekostigingsindicatie;J;N;NA;NA;NA;NA;NA
+DUO_Bekostigingsniveau;HOOG;TOP;NA;NA;NA;NA;NA
+DUO_Brinnummer;00DV;31FR;NA;NA;NA;NA;NA
+DUO_Code_bekostigingsstatus;jk;ti;NA;NA;NA;NA;NA
+DUO_CROHO_code;30009;80162;55002,00;56856,0;60822,00;57834,00;6220,00
+DUO_Opleidingsnaam;Ad Accountancy;M Zorgtraject Ontwerp;NA;NA;NA;NA;NA
+DUO_CROHO_code_Z08;Ad Accountancy;M Zorgtraject Ontwerp;NA;NA;NA;NA;NA
+Datum 1e aanlevering;01.05.2021;31.10.2022;NA;NA;NA;NA;NA
+DUO_Eerste_inschrijving;J;N;NA;NA;NA;NA;NA
+DUO_Einde_inschrijving_datum;01.09.2022;31.12.2022;NA;NA;NA;NA;NA
+DUO_Faculteit;AUC;THK;NA;NA;NA;NA;NA
+Ind nat voorwrde SF;J;N;NA;NA;NA;NA;NA
+Indicatie acad zkh;#;N;NA;NA;NA;NA;NA
+Indicatie Ba Ma Ad;#;M;NA;NA;NA;NA;NA
+Indicatie GBA relat;J;N;NA;NA;NA;NA;NA
+Indicatie sector LG;#;N;NA;NA;NA;NA;NA
+Inschrijvingsvolgnr;01VU891739;OD21PB00000440324;1451379,00;1779773,5;2817641,00;6502226,00;16124819,00
+Inschrijvingsvorm;S;S;NA;NA;NA;NA;NA
+DUO_Onderwijsnummer;#;185755052;173817293,25;177427316,5;179653985,75;175000000,00;12000000,00
+Opleiding onderdeel;ECONOMIE;TECHNIEK;NA;NA;NA;NA;NA
+DUO_Opleidingsfase;A;S;NA;NA;NA;NA;NA
+DUO_Opleidingsniveau;HBO-AD;WO-MA;NA;NA;NA;NA;NA
+Recordsoort;BRD;BRD;NA;NA;NA;NA;NA
+Soort studierichting;Bachelor;Premaster;NA;NA;NA;NA;NA
+INS_Studentnummer;;;;;;;
+Studiericht. (oms.);B Aarde, Economie en Duurzaamheid;RM Social Psychology;NA;NA;NA;NA;NA
+Studierichting;B Aarde, Economie en Duurzaamheid;RM Social Psychology;NA;NA;NA;NA;NA
+Aantal;1;1;1,00;1,0;1,00;1,00;0,00
+Gewogen aantal;1;15;1,00;1,0;15,00;6,81;6,77
+DUO_Jaar_bestand;2023;2024;2023,00;2024,0;2024,00;2024,00;0,50

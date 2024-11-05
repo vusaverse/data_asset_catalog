@@ -1,0 +1,35 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+DUO_Begin_inschrijving_datum;character;0
+Bekostiging versie;character;0
+Bekostigingscode;character;0
+DUO_Bekostigingsduur;numeric;0
+DUO_Bekostigingsindicatie;character;0
+DUO_Bekostigingsniveau;character;0
+DUO_Brinnummer;character;0
+DUO_Code_bekostigingsstatus;character;0
+DUO_CROHO_code;numeric;0
+DUO_Opleidingsnaam;character;0
+DUO_CROHO_code_Z08;character;0
+Datum 1e aanlevering;character;0
+DUO_Eerste_inschrijving;character;0
+DUO_Einde_inschrijving_datum;character;0
+DUO_Faculteit;character;0
+Ind nat voorwrde SF;character;0
+Indicatie acad zkh;character;0
+Indicatie Ba Ma Ad;character;0
+Indicatie GBA relat;character;0
+Indicatie sector LG;character;0
+Inschrijvingsvolgnr;character;0
+Inschrijvingsvorm;character;0
+DUO_Onderwijsnummer;character;0
+Opleiding onderdeel;character;0
+DUO_Opleidingsfase;character;0
+DUO_Opleidingsniveau;character;0
+Recordsoort;character;0
+Soort studierichting;character;0
+INS_Studentnummer;numeric;0
+Studiericht. (oms.);character;0
+Studierichting;character;0
+Aantal;numeric;0
+Gewogen aantal;numeric;0
+DUO_Jaar_bestand;character;0

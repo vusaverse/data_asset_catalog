@@ -1,0 +1,35 @@
+preferred_field_name;raw_field_name;in_use
+DUO_Begin_inschrijving_datum;Begin inschrijving;TRUE
+Bekostiging versie;Bekostiging versie;TRUE
+Bekostigingscode;Bekostigingscode;TRUE
+DUO_Bekostigingsduur;Bekostigingsduur;TRUE
+DUO_Bekostigingsindicatie;Bekostigingsindicat;TRUE
+DUO_Bekostigingsniveau;Bekostigingsniveau;TRUE
+DUO_Brinnummer;BRIN nummer;TRUE
+DUO_Code_bekostigingsstatus;Code bekostigingstat;TRUE
+DUO_CROHO_code;CROHO-code;TRUE
+DUO_Opleidingsnaam;Opleidingsnaam;TRUE
+DUO_CROHO_code_Z08;CROHO-code Z08;TRUE
+Datum 1e aanlevering;Datum 1e aanlevering;TRUE
+DUO_Eerste_inschrijving;Eerste inschrijving;TRUE
+DUO_Einde_inschrijving_datum;Einde inschrijving;TRUE
+DUO_Faculteit;Faculteit;TRUE
+Ind nat voorwrde SF;Ind nat voorwrde SF;TRUE
+Indicatie acad zkh;Indicatie acad zkh;TRUE
+Indicatie Ba Ma Ad;Indicatie Ba Ma Ad;TRUE
+Indicatie GBA relat;Indicatie GBA relat;TRUE
+Indicatie sector LG;Indicatie sector LG;TRUE
+Inschrijvingsvolgnr;Inschrijvingsvolgnr;TRUE
+Inschrijvingsvorm;Inschrijvingsvorm;TRUE
+DUO_Onderwijsnummer;Onderwijsnummer;TRUE
+Opleiding onderdeel;Opleiding onderdeel;TRUE
+DUO_Opleidingsfase;Opleidingsfase;TRUE
+DUO_Opleidingsniveau;Opleidingsniveau;TRUE
+Recordsoort;Recordsoort;TRUE
+Soort studierichting;Soort studierichting;TRUE
+INS_Studentnummer;Student;TRUE
+Studiericht. (oms.);Studiericht. (oms.);TRUE
+Studierichting;Studierichting;TRUE
+Aantal;Aantal;TRUE
+Gewogen aantal;Gewogen aantal;TRUE
+DUO_Jaar_bestand;Jaar;TRUE
