@@ -1,0 +1,16 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+SBZ_Scholenbezoek_event_ID;301;642;307;382;471;399;101
+SBZ_Scholenbezoek_ID;1;2118;84;744;1572;863;773
+SBZ_Scholenbezoek_datum;2017-10-09;2018-04-16;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_event_naam;@VU Bezoek vanuit Curaçao;Zeeuwse middelbare scholen;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_studie;_NL;WIJS;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_type_bezoek;individueel scholenbezoek;overkoepeld event;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_type_event;schoolvoorlichting;schoolvoorlichting;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_type_subevent;markt;workshop;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_stopgezet;stopgezet;stopgezet;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_stopgezet_reden;afgelast door organisatie;insufficient signups;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_school;;;NA;NA;NA;NA;NA
+SBZ_Scholenbezoek_brin6;;;NA;NA;NA;NA;NA
+eventid;NA;301;642;307;382;471;399;101
+SBZ_Scholenbezoek_studiecode;AB_A&E;XB_SCH_JD;NA;NA;NA;NA;NA
+INS_Opleidingscode_actueel;50007;59324;50952;56551;56833;55034;2684

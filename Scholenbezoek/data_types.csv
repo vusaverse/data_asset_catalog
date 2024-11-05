@@ -1,0 +1,16 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+SBZ_Scholenbezoek_event_ID;numeric;0,00
+SBZ_Scholenbezoek_ID;numeric;0,00
+SBZ_Scholenbezoek_datum;character;0,00
+SBZ_Scholenbezoek_event_naam;character;0,00
+SBZ_Scholenbezoek_studie;character;0,00
+SBZ_Scholenbezoek_type_bezoek;character;0,00
+SBZ_Scholenbezoek_type_event;character;0,00
+SBZ_Scholenbezoek_type_subevent;character;0,00
+SBZ_Scholenbezoek_stopgezet;character;38,17
+SBZ_Scholenbezoek_stopgezet_reden;character;46,94
+SBZ_Scholenbezoek_school;character;0,00
+SBZ_Scholenbezoek_brin6;character;0,27
+eventid;NA;numeric;0,00
+SBZ_Scholenbezoek_studiecode;character;6,33
+INS_Opleidingscode_actueel;numeric;6,33

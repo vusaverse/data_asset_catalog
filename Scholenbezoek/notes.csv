@@ -1,0 +1,16 @@
+preferred_field_name;notes
+SBZ_Scholenbezoek_event_ID;
+SBZ_Scholenbezoek_ID;
+SBZ_Scholenbezoek_datum;
+SBZ_Scholenbezoek_event_naam;
+SBZ_Scholenbezoek_studie;
+SBZ_Scholenbezoek_type_bezoek;
+SBZ_Scholenbezoek_type_event;
+SBZ_Scholenbezoek_type_subevent;
+SBZ_Scholenbezoek_stopgezet;
+SBZ_Scholenbezoek_stopgezet_reden;
+SBZ_Scholenbezoek_school;
+SBZ_Scholenbezoek_brin6;
+eventid;NA;
+SBZ_Scholenbezoek_studiecode;
+INS_Opleidingscode_actueel;

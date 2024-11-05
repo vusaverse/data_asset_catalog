@@ -1,0 +1,16 @@
+preferred_field_name;raw_field_name;in_use
+SBZ_Scholenbezoek_event_ID;eventId;TRUE
+SBZ_Scholenbezoek_ID;id;TRUE
+SBZ_Scholenbezoek_datum;datum;TRUE
+SBZ_Scholenbezoek_event_naam;naam;TRUE
+SBZ_Scholenbezoek_studie;studie;TRUE
+SBZ_Scholenbezoek_type_bezoek;type schoolbezoek;TRUE
+SBZ_Scholenbezoek_type_event;eventtype;TRUE
+SBZ_Scholenbezoek_type_subevent;subeventype;TRUE
+SBZ_Scholenbezoek_stopgezet;stopgezet?;TRUE
+SBZ_Scholenbezoek_stopgezet_reden;reden stopzetten;TRUE
+SBZ_Scholenbezoek_school;school;TRUE
+SBZ_Scholenbezoek_brin6;brin;TRUE
+eventid;event id;TRUE
+SBZ_Scholenbezoek_studiecode;StudieCode;TRUE
+INS_Opleidingscode_actueel;croho;TRUE
