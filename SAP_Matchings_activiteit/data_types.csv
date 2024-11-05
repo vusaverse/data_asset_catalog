@@ -1,0 +1,15 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+MAC_StudentID;integer;0,00
+RES_Studie_object_ID;integer;0,00
+RES_Studieprogramma_ID;integer;0,00
+MAC_Begindatum;character;0,00
+MAC_Einddatum;character;0,00
+MVR_Matchingsvragenlijst_verplicht_bij_opleiding;character;5,44
+MAC_Matchingsactiviteit_deelgenomen;character;89,17
+MAC_Matchingsactiviteit_datum;integer;0,00
+MAC_Matchingsactiviteit_aanwezig;integer;0,00
+MAC_Matchingsactiviteit_resultaat;character;96,10
+MVR_Matchingsvragenlijst_vrijstelling;character;99,30
+MVR_Matchingsvragenlijst_ingevuld;character;71,07
+MAC_Matchingactiviteit_vrijstelling;character;98,71
+MAC_Matchingsreden_vrijstelling;character;99,07

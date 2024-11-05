@@ -1,0 +1,15 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+MAC_StudentID;;;;;;;
+RES_Studie_object_ID;50410686;53090109;50775948,0;51078726,0;51791350,25;51296182,00;722542,0
+RES_Studieprogramma_ID;50043568;52912628;50046884,0;50051118,0;50052302,00;50195551,00;410050,0
+MAC_Begindatum;01.01.1970;27.09.2004;NA;NA;NA;NA;NA
+MAC_Einddatum;31.01.2016;31.08.2026;NA;NA;NA;NA;NA
+MVR_Matchingsvragenlijst_verplicht_bij_opleiding;N;Y;NA;NA;NA;NA;NA
+MAC_Matchingsactiviteit_deelgenomen;N;Y;NA;NA;NA;NA;NA
+MAC_Matchingsactiviteit_datum;0;22040718;0,0;0,0;0,00;2534157,00;6689891,0
+MAC_Matchingsactiviteit_aanwezig;0;90;0,0;0,0;0,00;6,28;16,7
+MAC_Matchingsactiviteit_resultaat;FAIL;PASS;NA;NA;NA;NA;NA
+MVR_Matchingsvragenlijst_vrijstelling;X;X;NA;NA;NA;NA;NA
+MVR_Matchingsvragenlijst_ingevuld;X;X;NA;NA;NA;NA;NA
+MAC_Matchingactiviteit_vrijstelling;X;X;NA;NA;NA;NA;NA
+MAC_Matchingsreden_vrijstelling;10;ziekte;NA;NA;NA;NA;NA

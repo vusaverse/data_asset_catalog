@@ -1,0 +1,15 @@
+preferred_field_name;notes
+MAC_StudentID;
+RES_Studie_object_ID;
+RES_Studieprogramma_ID;
+MAC_Begindatum;
+MAC_Einddatum;
+MVR_Matchingsvragenlijst_verplicht_bij_opleiding;
+MAC_Matchingsactiviteit_deelgenomen;
+MAC_Matchingsactiviteit_datum;
+MAC_Matchingsactiviteit_aanwezig;
+MAC_Matchingsactiviteit_resultaat;
+MVR_Matchingsvragenlijst_vrijstelling;
+MVR_Matchingsvragenlijst_ingevuld;
+MAC_Matchingactiviteit_vrijstelling;
+MAC_Matchingsreden_vrijstelling;
