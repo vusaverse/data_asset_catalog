@@ -1,0 +1,9 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+VAK_Academisch_jaar;character;0,00
+VAK_Minornaam;character;0,00
+VAK_Vaknaam;character;1,06
+VAK_Periode;character;1,31
+VAK_EC;character;1,06
+VAK_Code;character;1,06
+VAK_Verplicht;character;84,50
+VAK_Opmerking;character;90,13

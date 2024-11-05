@@ -1,0 +1,9 @@
+preferred_field_name;raw_field_name;in_use
+VAK_Academisch_jaar;Jaar;TRUE
+VAK_Minornaam;Minor;TRUE
+VAK_Vaknaam;Vak;TRUE
+VAK_Periode;Periode;TRUE
+VAK_EC;Credits;TRUE
+VAK_Code;Code;TRUE
+VAK_Verplicht;Verplicht/keuze;TRUE
+VAK_Opmerking;Grijs: opent niet;TRUE
