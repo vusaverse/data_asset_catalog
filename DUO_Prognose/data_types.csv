@@ -1,0 +1,16 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+DUO_Brinnummer;character;0,00
+DUO_Instelling;character;0,00
+DUO_Vestigingsgemeente;character;0,00
+DUO_Jaar;character;0,00
+DUO_Opleidingsvorm;character;0,00
+DUO_Soort_ho;character;0,00
+DUO_Type_ho;character;0,00
+DUO_Herkomst;character;0,00
+DUO_Status;character;0,00
+DUO_Ingeschrevenen_domein_HO;numeric;7,69
+DUO_Instroom_RR;numeric;7,11
+DUO_Instroom_HO;numeric;8,55
+DUO_Instroom_THO_NW;numeric;7,16
+DUO_Tweedejaars_THO_NW;numeric;6,92
+DUO_Hogerejaars_THO_NW;numeric;7,69

@@ -1,0 +1,16 @@
+preferred_field_name;raw_field_name;in_use
+DUO_Brinnummer;brinvest;TRUE
+DUO_Instelling;instelling;TRUE
+DUO_Vestigingsgemeente;vestigingsgemeente;TRUE
+DUO_Jaar;jaar;TRUE
+DUO_Opleidingsvorm;opleidingsvorm;TRUE
+DUO_Soort_ho;soort_ho;TRUE
+DUO_Type_ho;type_ho;TRUE
+DUO_Herkomst;herkomst;TRUE
+DUO_Status;status;TRUE
+DUO_Ingeschrevenen_domein_HO;ingeschrevenen_domein_HO;TRUE
+DUO_Instroom_RR;instroom_RR;TRUE
+DUO_Instroom_HO;instroom_HO;TRUE
+DUO_Instroom_THO_NW;instroom_THO_NW;TRUE
+DUO_Tweedejaars_THO_NW;tweedejaars_THO_NW;TRUE
+DUO_Hogerejaars_THO_NW;hogerejaars_THO_NW;TRUE
