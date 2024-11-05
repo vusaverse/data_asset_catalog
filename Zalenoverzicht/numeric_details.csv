@@ -1,0 +1,9 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+ROO_Locatie;ABN  AMRO bank;Z-009 Metropolitan;NA;NA;NA;NA;NA
+ROO_Gebouw;BV;WN;NA;NA;NA;NA;NA
+ROO_Zaalcategorie;< 20;91-150;NA;NA;NA;NA;NA
+ROO_Zaal_type;Collegezaal;Werkgroepzaal;NA;NA;NA;NA;NA
+ROO_Zaal_grootte;1;550;22;30;50;46,5;54,4
+ROO_Tentamengrootte;7;137;12;15;25;20,0;14,8
+ROO_Toevoegingen;ACTA;Vumc;NA;NA;NA;NA;NA
+ROO_Leenrechten;Deels;Nee;NA;NA;NA;NA;NA

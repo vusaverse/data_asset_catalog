@@ -1,0 +1,9 @@
+preferred_field_name;raw_field_name;in_use
+ROO_Locatie;Zaal;TRUE
+ROO_Gebouw;Gebouw;TRUE
+ROO_Zaalcategorie;Zaalcategorie;TRUE
+ROO_Zaal_type;Type;TRUE
+ROO_Zaal_grootte;Grootte;TRUE
+ROO_Tentamengrootte;Tentamengrootte;TRUE
+ROO_Toevoegingen;Toevoegingen;TRUE
+ROO_Leenrechten;Leenrechten;TRUE

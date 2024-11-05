@@ -1,0 +1,9 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+ROO_Locatie;character;0,00
+ROO_Gebouw;character;0,00
+ROO_Zaalcategorie;character;0,70
+ROO_Zaal_type;character;0,00
+ROO_Zaal_grootte;numeric;11,14
+ROO_Tentamengrootte;numeric;45,48
+ROO_Toevoegingen;character;42,23
+ROO_Leenrechten;character;0,00
