@@ -1,0 +1,7 @@
+preferred_field_name;raw_field_name;in_use
+OPL_Afkorting_naam;Program;TRUE
+DEM_Nationaliteit_EER_incl_DUI;Nationality NL GER EEA non-EEA;TRUE
+DEM_Regio;Region;TRUE
+DEM_Provincie;Province;TRUE
+OPL_Cohort;Cohort;TRUE
+OPL_Aantal_instroom;Influx;TRUE

@@ -1,0 +1,7 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+OPL_Afkorting_naam;character;0,00
+DEM_Nationaliteit_EER_incl_DUI;character;0,00
+DEM_Regio;character;35,82
+DEM_Provincie;character;20,23
+OPL_Cohort;numeric;0,00
+OPL_Aantal_instroom;numeric;0,00

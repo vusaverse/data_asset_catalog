@@ -1,0 +1,7 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+OPL_Afkorting_naam;AT;ME VU;NA;NA;NA;NA;NA
+DEM_Nationaliteit_EER_incl_DUI;EEA;non-EEA;NA;NA;NA;NA;NA
+DEM_Regio;East;West;NA;NA;NA;NA;NA
+DEM_Provincie;Baden-Württemberg;Zuid-Holland;NA;NA;NA;NA;NA
+OPL_Cohort;2017;2023;2019;2020;2022;2020,00;1,97
+OPL_Aantal_instroom;1;80;1;3;8;7,23;10,70
