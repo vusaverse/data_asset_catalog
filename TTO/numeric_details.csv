@@ -1,0 +1,16 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+X;1;130;33,25;65,5;97,75;65,5;37,7
+X.1;j;s;NA;NA;NA;NA;NA
+TTO_BRIN;-;31EX;NA;NA;NA;NA;NA
+TTO_BRIN6;-;31EX00;NA;NA;NA;NA;NA
+TTO_Schoolnaam;;;NA;NA;NA;NA;NA
+TTO_Adres;;;NA;NA;NA;NA;NA
+TTO_Postcode;1022 LD;Philipsburg;NA;NA;NA;NA;NA
+TTO_Plaats;Alkmaar;Zwolle;NA;NA;NA;NA;NA
+TTO_VWO;X;X alleen gym;NA;NA;NA;NA;NA
+TTO_HAVO;X;X h/v;NA;NA;NA;NA;NA
+TTO_VMBO;X;X;NA;NA;NA;NA;NA
+TTO_In_voorbereiding;Inf;-Inf;NA;NA;NA;NA;NA
+TTO_Certificaat;j;v;NA;NA;NA;NA;NA
+X.2;bieden nog geen t-vmbo aan, wel al lid netwerk;bieden nog geen t-vmbo aan, wel al lid netwerk;NA;NA;NA;NA;NA
+X.3;2018 tvmbo,;vanaf 2017/18 ook havo en vmbo;NA;NA;NA;NA;NA

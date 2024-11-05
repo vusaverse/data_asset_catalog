@@ -1,0 +1,16 @@
+preferred_field_name;raw_field_name;in_use
+X;X;TRUE
+X.1;X.1;TRUE
+TTO_BRIN;BRIN;TRUE
+TTO_BRIN6;Vestigingsnummer;TRUE
+TTO_Schoolnaam;Organisatie;TRUE
+TTO_Adres;adres;TRUE
+TTO_Postcode;postcode;TRUE
+TTO_Plaats;plaatsnaam;TRUE
+TTO_VWO;vwo;TRUE
+TTO_HAVO;havo;TRUE
+TTO_VMBO;vmbo;TRUE
+TTO_In_voorbereiding;in.voorbereiding;TRUE
+TTO_Certificaat;Certificaat;TRUE
+X.2;X.2;TRUE
+X.3;X.3;TRUE

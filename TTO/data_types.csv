@@ -1,0 +1,16 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+X;numeric;12,16
+X.1;character;39,86
+TTO_BRIN;character;12,16
+TTO_BRIN6;character;12,16
+TTO_Schoolnaam;character;6,76
+TTO_Adres;character;10,14
+TTO_Postcode;character;12,84
+TTO_Plaats;character;12,84
+TTO_VWO;character;19,59
+TTO_HAVO;character;60,14
+TTO_VMBO;character;83,11
+TTO_In_voorbereiding;logical;100,00
+TTO_Certificaat;character;25,68
+X.2;character;99,32
+X.3;character;97,97
