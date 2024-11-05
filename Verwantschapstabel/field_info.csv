@@ -1,0 +1,5 @@
+preferred_field_name;raw_field_name;in_use
+INS_Opleidingsfase_actueel;Type Opleiding;TRUE
+INS_Opleidingscode_Z08;CROHO VU;TRUE
+INS_Opleidingscode_Z08_verwant;is verwant met: Isatcode;TRUE
+INS_Opleidingsnaam;Isatcode omschrijving;TRUE

@@ -1,0 +1,5 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+INS_Opleidingsfase_actueel;character;0
+INS_Opleidingscode_Z08;numeric;0
+INS_Opleidingscode_Z08_verwant;numeric;0
+INS_Opleidingsnaam;character;0
