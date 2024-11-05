@@ -1,0 +1,9 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+VAK_Academisch_jaar;character;0,00
+VAK_Opleidingsnaam;character;0,00
+VAK_Specialisatienaam;character;21,09
+VAK_Code_afstudeeropdracht;character;21,56
+VAK_Code_stage;character;21,15
+VAK_Fase;character;0,00
+OPL_CROHO_code;character;41,67
+VAK_Opmerking;character;91,61

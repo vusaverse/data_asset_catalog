@@ -1,0 +1,9 @@
+preferred_field_name;raw_field_name;in_use
+VAK_Academisch_jaar;Jaar;TRUE
+VAK_Opleidingsnaam;Opleiding;TRUE
+VAK_Specialisatienaam;Specialisatie;TRUE
+VAK_Code_afstudeeropdracht;Code scriptie;TRUE
+VAK_Code_stage;Code stage;TRUE
+VAK_Fase;Bachelor/Master;TRUE
+OPL_CROHO_code;Croho;TRUE
+VAK_Opmerking;Grijs: studiegids opent niet.;TRUE
