@@ -1,0 +1,13 @@
+preferred_field_name;raw_field_name;in_use
+VAK_Academisch_jaar;Jaar...1;TRUE
+VAK_Opleidingsnaam;Opleiding;TRUE
+VAK_Specialisatienaam;Afstudeerrichting;TRUE
+VAK_Vaknaam;Vak;TRUE
+VAK_Periode;Periode;TRUE
+VAK_EC;Credits;TRUE
+VAK_Code;Code;TRUE
+VAK_Fase;Master;TRUE
+VAK_Studiejaar;Jaar...9;TRUE
+VAK_Verplicht;Verplicht/keuze;TRUE
+VAK_Opmerking;...11;TRUE
+Grijs: geen specialisatie/afstudeerrichting;Grijs: geen specialisatie/afstudeerrichting;FALSE

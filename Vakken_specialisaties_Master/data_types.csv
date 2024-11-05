@@ -1,0 +1,13 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+VAK_Academisch_jaar;character;0,00
+VAK_Opleidingsnaam;character;0,00
+VAK_Specialisatienaam;character;0,00
+VAK_Vaknaam;character;0,00
+VAK_Periode;character;0,94
+VAK_EC;character;0,05
+VAK_Code;character;0,01
+VAK_Fase;character;0,00
+VAK_Studiejaar;character;87,11
+VAK_Verplicht;character;57,17
+VAK_Opmerking;character;99,88
+Grijs: geen specialisatie/afstudeerrichting;character;100,00
