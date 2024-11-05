@@ -1,0 +1,13 @@
+preferred_field_name;raw_field_name;in_use
+INS_Studentnummer_SAP_ID;Studentnummer;TRUE
+Studie_Id;Studie_Id;FALSE
+INS_Minor_specialisatie_begindatum;Begindatum;TRUE
+INS_Minor_specialisatie_einddatum;Einddatum;TRUE
+INS_Studierichting;Studierichting;TRUE
+INS_Studierichting_omschrijving;Studierichting_Omschrijving;TRUE
+INS_Minor_specialisatie_variant;Modulegroepvariant;TRUE
+INS_Minor_specialisatie_soort;Soort_Modulegroep;TRUE
+INS_Minor_specialisatie_ID;Modulegroep_ID;TRUE
+INS_Minor_specialisatie_naam;Modulegroep_Omschrijving;TRUE
+Status;Status;FALSE
+INS_Minor_specialisatie_status;Status_Omschrijving;TRUE

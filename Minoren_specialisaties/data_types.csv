@@ -1,0 +1,13 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+INS_Studentnummer_SAP_ID;numeric;0,00
+Studie_Id;numeric;0,00
+INS_Minor_specialisatie_begindatum;Date;0,00
+INS_Minor_specialisatie_einddatum;Date;0,00
+INS_Studierichting;character;0,00
+INS_Studierichting_omschrijving;character;0,00
+INS_Minor_specialisatie_variant;character;0,05
+INS_Minor_specialisatie_soort;character;0,00
+INS_Minor_specialisatie_ID;numeric;0,00
+INS_Minor_specialisatie_naam;character;0,42
+Status;numeric;0,00
+INS_Minor_specialisatie_status;character;0,00

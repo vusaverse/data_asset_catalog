@@ -1,0 +1,13 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+INS_Studentnummer_SAP_ID;;;;;;;
+Studie_Id;50410715;53084563;51143189;51715734,5;52207095,75;51688066,00;667408,00
+INS_Minor_specialisatie_begindatum;15218;20697;NA;NA;NA;NA;NA
+INS_Minor_specialisatie_einddatum;15229;2932896;NA;NA;NA;NA;NA
+INS_Studierichting;AB_A&E;XM_SBI;NA;NA;NA;NA;NA
+INS_Studierichting_omschrijving;B Aarde Economie en Duurzaamheid;PMC Pedagogische Wetenschappen;NA;NA;NA;NA;NA
+INS_Minor_specialisatie_variant;1 Major;3 Spec;NA;NA;NA;NA;NA
+INS_Minor_specialisatie_soort;D;S;NA;NA;NA;NA;NA
+INS_Minor_specialisatie_ID;50044116;53027232;50057658;50843035,0;51385866,00;50883462,00;644423,00
+INS_Minor_specialisatie_naam;1e m ACW 2e m Architec.ges.;Zonder aantekening;NA;NA;NA;NA;NA
+Status;1;5;1;1,0;1,00;1,75;1,56
+INS_Minor_specialisatie_status;Aangevraagd;Afgewezen;NA;NA;NA;NA;NA

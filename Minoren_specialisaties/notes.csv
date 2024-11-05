@@ -1,0 +1,13 @@
+preferred_field_name;notes
+INS_Studentnummer_SAP_ID;
+Studie_Id;
+INS_Minor_specialisatie_begindatum;
+INS_Minor_specialisatie_einddatum;
+INS_Studierichting;
+INS_Studierichting_omschrijving;
+INS_Minor_specialisatie_variant;
+INS_Minor_specialisatie_soort;
+INS_Minor_specialisatie_ID;
+INS_Minor_specialisatie_naam;
+Status;
+INS_Minor_specialisatie_status;
