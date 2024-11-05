@@ -1,0 +1,40 @@
+preferred_field_name;category_1;percent_1;category_2;percent_2;category_3;percent_3;category_4;percent_4;category_5;percent_5
+INS_Studentnummer_anoniem;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Examenjaar;2020;8.96;2021;8.8;2019;7.97;2018;7.73;2017;7.42
+INS_Examenmaand;08;28.32;07;24.03;06;12.08;01;7.1;NA;NA
+INS_Instellingscode;21PK;12.98;21PD;11.92;21PC;10.52;21PE;10.18;21PL;9.52
+INS_Opleidingscode_historisch;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Opleidingscode_actueel;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Iscedf2013;041303;9.07;031301;8.27;042101;8.25;091201;7.02;NA;NA
+INS_Opleidingscode_CROHO;8;21.18;6;17.75;5;12.47;4;11.17;9;11.14
+INS_Opleidingsfase_examen_actueel;M;52.78;B;45.45;NA;NA;NA;NA;NA;NA
+INS_Type_hoger_onderwijs_soort_hoger_onderwijs;ma;51.73;ba;45.45;NA;NA;NA;NA;NA;NA
+INS_Aantal_maand_examen_hoger_onderwijs;35;6.93;36;5.27;NA;NA;NA;NA;NA;NA
+INS_Aantal_maand_examen_soort_instelling;35;8;36;6.25;47;5.03;NA;NA;NA;NA
+INS_Aantal_maand_examen_instelling;35;8.64;36;6.9;NA;NA;NA;NA;NA;NA
+INS_Aantal_maand_examen_type_hoger_onderwijs;35;8.73;36;7.34;12;7.09;24;5.46;NA;NA
+INS_Aantal_maand_examen_opleiding;35;9.72;36;8.04;12;7.71;24;5.53;11;5.21
+INS_Examen_bachelor_masterin_een;1;29.22;0;10.94;2;5.29;NA;NA;NA;NA
+INS_Examen_bachelor_masterin_twee;1;31.32;0;7.66;2;6.47;NA;NA;NA;NA
+INS_Examen_bachelor_masterin_totaal;1;31.83;2;6.81;0;6.81;NA;NA;NA;NA
+INS_Examen_bachelor_masterex;0;20.93;1;19.89;NA;NA;NA;NA;NA;NA
+INS_Examen_bachelor_masterex5;1;23.47;0;16.75;2;5.23;NA;NA;NA;NA
+INS_Examen_bachelor_masterex_totaal;1;23.79;0;16.33;2;5.33;NA;NA;NA;NA
+INS_Examen_bachelor_masterex_jaar;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Instroom_categorie;1;34.99;4;9.97;2;6.3;NA;NA;NA;NA
+INS_Opleidingsvorm;1;97.46;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Soort_HO;wo ;100;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Vooropleiding_voor_HO_code;00403;15.66;00405;14.17;00411;14.04;00502;11.56;00000;8.77
+INS_Vooropleiding_voor_HO_jaar;0000;8.78;2012;6.35;2011;6.22;2010;6.19;2009;6.14
+INS_Vooropleiding_voor_HO_instellingscode;    ;23.54;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Hoogste_vooropleiding_code;00000;7.53;00903;7.41;00502;6.79;00411;5.35;00904;5.32
+INS_Hoogste_vooropleiding_jaar;0000;7.54;2016;7.32;2014;7.27;2015;7.16;2013;7.02
+INS_Hoogste_vooropleiding_instellingscode;    ;15.8;21PC;8.31;21PB;7.27;21PK;7.04;21PM;6.36
+DEM_Geslacht;2;55.37;1;44.63;NA;NA;NA;NA;NA;NA
+DEM_Leeftijd_peildatum_1_jan;23;15.74;24;14.97;22;14.91;21;13.36;25;11.37
+DEM_Nationaliteit_1;0001;81.78;0055;5.11;NA;NA;NA;NA;NA;NA
+INS_Vestigingsnummer_inschrijving;00;97.72;NA;NA;NA;NA;NA;NA;NA;NA
+INS_Vestigingsnummer_examen;00;97.72;NA;NA;NA;NA;NA;NA;NA;NA
+DEM_Indicatie_nationaliteit_EER_actueel;J;94.13;N;5.87;NA;NA;NA;NA;NA;NA
+DEM_Indicatie_internationale_student;N;82.09;J;17.91;NA;NA;NA;NA;NA;NA
+DEM_Indicatie_nationaliteit_EER_peildatum;J;94.72;N;5.28;NA;NA;NA;NA;NA;NA
