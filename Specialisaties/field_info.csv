@@ -1,0 +1,5 @@
+preferred_field_name;raw_field_name;in_use
+INS_Studentnummer;Student_number;TRUE
+INS_Inschrijvingsjaar_EOI;Academic_year;TRUE
+INS_Studieprogramma_CD;Programme_code;TRUE
+INS_Specialisatie;Specialization;TRUE

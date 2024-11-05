@@ -1,0 +1,5 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+INS_Studentnummer;character;0
+INS_Inschrijvingsjaar_EOI;numeric;0
+INS_Studieprogramma_CD;character;0
+INS_Specialisatie;character;0

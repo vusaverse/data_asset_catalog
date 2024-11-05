@@ -1,0 +1,5 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+INS_Studentnummer;;;;;;;
+INS_Inschrijvingsjaar_EOI;2015;2022;2018,00;2020;2021;2019;2,13
+INS_Studieprogramma_CD;AM_BIO;XM_SBI;NA;NA;NA;NA;NA
+INS_Specialisatie;Advanced Matter and Energy Physics;XM_AI;NA;NA;NA;NA;NA
