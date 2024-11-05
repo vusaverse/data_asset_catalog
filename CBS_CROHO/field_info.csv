@@ -1,0 +1,12 @@
+preferred_field_name;raw_field_name;in_use
+OPL_CBS_Crohocode;crohocode;TRUE
+OPL_CBS_Label_croho;l_crohocode;TRUE
+OPL_CBS_Label_rubriek;l_iscedf2013rubrieksoi2021v;TRUE
+l_iscedf2013rubriek;l_iscedf2013rubriek;TRUE
+wo;wo;TRUE
+iscedf2013richtingnl;iscedf2013richtingnl;TRUE
+iscedf2013rubriek;iscedf2013rubriek;TRUE
+OPL_CBS_Richting_code;iscedf2013richtingnlsoi2021v;TRUE
+OPL_CBS_Rubriek_code;iscedf2013rubrieksoi2021v;TRUE
+l_iscedf2013richtingnl;l_iscedf2013richtingnl;TRUE
+OPL_CBS_Label_richting;l_iscedf2013richtingnlsoi2021v;TRUE

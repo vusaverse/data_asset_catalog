@@ -1,0 +1,12 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+OPL_CBS_Crohocode;01020;81034;6221,75;44135,5;60719,25;38752;27598
+OPL_CBS_Label_croho;2-jarige hbo-cursus kleine leerstofgebieden bbo;zootechniek;NA;NA;NA;NA;NA
+OPL_CBS_Label_rubriek;(huis)arts, specialist, geneeskunde;zuivel;NA;NA;NA;NA;NA
+l_iscedf2013rubriek;(huis)arts, specialist, geneeskunde;zuivel;NA;NA;NA;NA;NA
+wo;hbo;wo;NA;NA;NA;NA;NA
+iscedf2013richtingnl;0110;9999;222,00;413,0;641,75;459;414
+iscedf2013rubriek;011000;999999;22201,00;41303,0;64175,75;45867;41424
+OPL_CBS_Richting_code;0111;9999;222,00;413,0;619,00;460;414
+OPL_CBS_Rubriek_code;011101;999999;22202,00;41303,0;61901,00;45980;41380
+l_iscedf2013richtingnl;aardwetenschappen;wiskunde, natuurwetenschappen z.n.d.;NA;NA;NA;NA;NA
+OPL_CBS_Label_richting;aardwetenschappen;wiskunde, natuurwetenschappen z.n.d.;NA;NA;NA;NA;NA

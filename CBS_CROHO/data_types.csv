@@ -1,0 +1,12 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+OPL_CBS_Crohocode;character;0
+OPL_CBS_Label_croho;character;0
+OPL_CBS_Label_rubriek;character;0
+l_iscedf2013rubriek;character;0
+wo;character;0
+iscedf2013richtingnl;character;0
+iscedf2013rubriek;character;0
+OPL_CBS_Richting_code;character;0
+OPL_CBS_Rubriek_code;character;0
+l_iscedf2013richtingnl;character;0
+OPL_CBS_Label_richting;character;0
