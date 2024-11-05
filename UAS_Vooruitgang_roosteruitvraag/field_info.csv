@@ -1,0 +1,9 @@
+preferred_field_name;raw_field_name;in_use
+ROO_Faculteitcode;faculty_code;TRUE
+ROO_Modulecode;module_code;TRUE
+ROO_Module;module_name;TRUE
+ROO_Periode_UAS;period_name;TRUE
+ROO_Datum_afgerond;end_time;TRUE
+INS_Inschrijvingsjaar;Jaar;TRUE
+ROO_Status;status;FALSE
+ROO_Result;copy_result;FALSE

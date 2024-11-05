@@ -1,0 +1,9 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+ROO_Faculteitcode;numeric;0,00
+ROO_Modulecode;character;0,05
+ROO_Module;character;0,06
+ROO_Periode_UAS;character;0,00
+ROO_Datum_afgerond;character;39,04
+INS_Inschrijvingsjaar;numeric;0,00
+ROO_Status;character;68,39
+ROO_Result;character;68,39

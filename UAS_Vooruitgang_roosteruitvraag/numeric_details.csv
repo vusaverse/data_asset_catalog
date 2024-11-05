@@ -1,0 +1,9 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+ROO_Faculteitcode;1000;9200;1300;2600;2900;2255;736,00
+ROO_Modulecode;A_HP-I-2;XPUJ_0004;NA;NA;NA;NA;NA
+ROO_Module;(Bio)Molecular Spectroscopy;Zorg in de samenleving;NA;NA;NA;NA;NA
+ROO_Periode_UAS;Ac. Jaar (februari);Zomerperiode;NA;NA;NA;NA;NA
+ROO_Datum_afgerond;2017-02-13 10:19:06.484+01;2019-10-17 18:28:30.168813+02;NA;NA;NA;NA;NA
+INS_Inschrijvingsjaar;2017;2019;2017;2018;2019;2018;0,81
+ROO_Status;SCHEDULE_PREPARED;UNSCHEDULED;NA;NA;NA;NA;NA
+ROO_Result;COURSE_COPIED;RESET;NA;NA;NA;NA;NA
