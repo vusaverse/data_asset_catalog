@@ -1,0 +1,16 @@
+preferred_field_name;notes
+INS_Studentnummer;
+INS_Studentnummer_SAP_ID;
+Externekwalificatie_ID;
+Externekwalificatie_SAP_ID;
+Externekwalificatie;
+Beoordelingsdatum_vooropleiding;
+Verificatie_vooropleiding;
+BRIN_nummer;
+VOP_BRIN_plaats_nummer;
+VOP_BRIN_locatie;
+Module_SAP_ID;
+Vak_ID;
+Vak_naam;
+Middelbare_schoolcijfer;
+Wijzigingsdatum;

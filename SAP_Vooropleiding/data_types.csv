@@ -1,0 +1,16 @@
+preferred_field_name;type_of_variable;percentage_of_missing_values
+INS_Studentnummer;numeric;0,00
+INS_Studentnummer_SAP_ID;numeric;0,00
+Externekwalificatie_ID;numeric;0,01
+Externekwalificatie_SAP_ID;character;0,01
+Externekwalificatie;character;0,01
+Beoordelingsdatum_vooropleiding;Date;15,32
+Verificatie_vooropleiding;character;2,85
+BRIN_nummer;character;10,46
+VOP_BRIN_plaats_nummer;integer;86,98
+VOP_BRIN_locatie;character;8,99
+Module_SAP_ID;numeric;27,56
+Vak_ID;integer;28,50
+Vak_naam;character;27,56
+Middelbare_schoolcijfer;character;30,56
+Wijzigingsdatum;Date;0,00

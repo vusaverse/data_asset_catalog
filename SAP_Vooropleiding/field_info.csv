@@ -1,0 +1,16 @@
+preferred_field_name;raw_field_name;in_use
+INS_Studentnummer;Student - Key;TRUE
+INS_Studentnummer_SAP_ID;Student - Object-ID student (Key);TRUE
+Externekwalificatie_ID;Graad / Kwalificatie - Key;TRUE
+Externekwalificatie_SAP_ID;Graad / Kwalificatie - Korte tekst;TRUE
+Externekwalificatie;Graad / Kwalificatie - Middellange tekst;TRUE
+Beoordelingsdatum_vooropleiding;Deg_beoordelingsdatum;TRUE
+Verificatie_vooropleiding;Status_getuigschrift;TRUE
+BRIN_nummer;BRINnummer - Key;TRUE
+VOP_BRIN_plaats_nummer;Brinvolgnummer;TRUE
+VOP_BRIN_locatie;Brinlocatie;TRUE
+Module_SAP_ID;Sap_module_id;TRUE
+Vak_ID;Module_cd;TRUE
+Vak_naam;Gevolgd_vak_oms;TRUE
+Middelbare_schoolcijfer;Cijfer;TRUE
+Wijzigingsdatum;Wijzigingsdatum;TRUE

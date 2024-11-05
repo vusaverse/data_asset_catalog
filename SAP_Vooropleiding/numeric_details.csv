@@ -1,0 +1,16 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+INS_Studentnummer;;;;;;;
+INS_Studentnummer_SAP_ID;;;;;;;
+Externekwalificatie_ID;0;53087249;50068015,0;50068071;52590907;50938061,00;1172267,00
+Externekwalificatie_SAP_ID;0;99999;172,0;351;591;648,00;3800,00
+Externekwalificatie;(JUNIOR) ACCOUNTMANAGER 25132;ZORG, NATUUR EN GEZONDHEID;NA;NA;NA;NA;NA
+Beoordelingsdatum_vooropleiding;-603089;2932890;NA;NA;NA;NA;NA
+Verificatie_vooropleiding;A;N;NA;NA;NA;NA;NA
+BRIN_nummer;0;PL21;NA;NA;NA;NA;NA
+VOP_BRIN_plaats_nummer;1;79;1,0;3;5;4,53;6,39
+VOP_BRIN_locatie;''S-GRAVENHAGE;ZZ;NA;NA;NA;NA;NA
+Module_SAP_ID;50068079;52992998;50068194,0;50068209;50068228;50192088,00;531385,00
+Vak_ID;1;3026;134,0;1002;1021;681,00;440,00
+Vak_naam;AARDRIJKSKUNDE;WISKUNDE D;NA;NA;NA;NA;NA
+Middelbare_schoolcijfer;10;X;60,0;70;70;67,30;9,12
+Wijzigingsdatum;15037;20028;NA;NA;NA;NA;NA
