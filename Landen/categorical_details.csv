@@ -2,15 +2,15 @@ preferred_field_name;category_1;percent_1;category_2;percent_2;category_3;percen
 Global Code;001;100;NA;NA;NA;NA;NA;NA;NA;NA
 Global Name;World;100;NA;NA;NA;NA;NA;NA;NA;NA
 Region Code;002;24.1;019;22.89;150;20.88;142;20.08;009;11.65
-BUI_VN_regio;Africa;24.1;Americas;22.89;Europe;20.88;Asia;20.08;Oceania;11.65
+Region Name;Africa;24.1;Americas;22.89;Europe;20.88;Asia;20.08;Oceania;11.65
 Sub-region Code;202;21.29;419;20.88;145;7.23;154;6.83;039;6.43
-BUI_VN_subregio;Sub-Saharan Africa;21.29;Latin America and the Caribbean;20.88;Western Asia;7.23;Northern Europe;6.83;Southern Europe;6.43
+Sub-region Name;Sub-Saharan Africa;21.29;Latin America and the Caribbean;20.88;Western Asia;7.23;Northern Europe;6.83;Southern Europe;6.43
 Intermediate Region Code;029;11.24;014;8.84;011;6.83;005;6.43;NA;NA
-BUI_VN_tussenregio;Caribbean;11.24;Eastern Africa;8.84;Western Africa;6.83;South America;6.43;NA;NA
-BUI_VN_land;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intermediate Region Name;Caribbean;11.24;Eastern Africa;8.84;Western Africa;6.83;South America;6.43;NA;NA
+Country or Area;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
 M49 Code;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-BUI_VN_landcode_ISO_alpha3;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-BUI_VN_minst_ontwikkelde_landen;x;18.88;NA;NA;NA;NA;NA;NA;NA;NA
+ISO-alpha3 Code;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Least Developed Countries (LDC);x;18.88;NA;NA;NA;NA;NA;NA;NA;NA
 Land Locked Developing Countries (LLDC);x;12.85;NA;NA;NA;NA;NA;NA;NA;NA
 Small Island Developing States (SIDS);x;21.29;NA;NA;NA;NA;NA;NA;NA;NA
-BUI_VN_ontwikkelingsland;Developing;73.09;Developed;26.51;NA;NA;NA;NA;NA;NA
+Developed / Developing Countries;Developing;73.09;Developed;26.51;NA;NA;NA;NA;NA;NA

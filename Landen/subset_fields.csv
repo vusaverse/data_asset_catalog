@@ -1,6 +1,6 @@
 column_name;value
-BUI_VN_ontwikkelingsland;Developed
-BUI_VN_ontwikkelingsland;Developing
+Developed / Developing Countries;Developed
+Developed / Developing Countries;Developing
 Global Code;001
 Global Name;World
 Intermediate Region Code;005
@@ -11,26 +11,26 @@ Intermediate Region Code;017
 Intermediate Region Code;018
 Intermediate Region Code;029
 Intermediate Region Code;830
-BUI_VN_tussenregio;Caribbean
-BUI_VN_tussenregio;Central America
-BUI_VN_tussenregio;Channel Islands
-BUI_VN_tussenregio;Eastern Africa
-BUI_VN_tussenregio;Middle Africa
-BUI_VN_tussenregio;South America
-BUI_VN_tussenregio;Southern Africa
-BUI_VN_tussenregio;Western Africa
+Intermediate Region Name;Caribbean
+Intermediate Region Name;Central America
+Intermediate Region Name;Channel Islands
+Intermediate Region Name;Eastern Africa
+Intermediate Region Name;Middle Africa
+Intermediate Region Name;South America
+Intermediate Region Name;Southern Africa
+Intermediate Region Name;Western Africa
 Land Locked Developing Countries (LLDC);x
-BUI_VN_minst_ontwikkelde_landen;x
+Least Developed Countries (LDC);x
 Region Code;002
 Region Code;009
 Region Code;019
 Region Code;142
 Region Code;150
-BUI_VN_regio;Africa
-BUI_VN_regio;Americas
-BUI_VN_regio;Asia
-BUI_VN_regio;Europe
-BUI_VN_regio;Oceania
+Region Name;Africa
+Region Name;Americas
+Region Name;Asia
+Region Name;Europe
+Region Name;Oceania
 Small Island Developing States (SIDS);x
 Sub-region Code;015
 Sub-region Code;021
@@ -49,20 +49,20 @@ Sub-region Code;154
 Sub-region Code;155
 Sub-region Code;202
 Sub-region Code;419
-BUI_VN_subregio;Australia and New Zealand
-BUI_VN_subregio;Central Asia
-BUI_VN_subregio;Eastern Asia
-BUI_VN_subregio;Eastern Europe
-BUI_VN_subregio;Latin America and the Caribbean
-BUI_VN_subregio;Melanesia
-BUI_VN_subregio;Micronesia
-BUI_VN_subregio;Northern Africa
-BUI_VN_subregio;Northern America
-BUI_VN_subregio;Northern Europe
-BUI_VN_subregio;Polynesia
-BUI_VN_subregio;South-eastern Asia
-BUI_VN_subregio;Southern Asia
-BUI_VN_subregio;Southern Europe
-BUI_VN_subregio;Sub-Saharan Africa
-BUI_VN_subregio;Western Asia
-BUI_VN_subregio;Western Europe
+Sub-region Name;Australia and New Zealand
+Sub-region Name;Central Asia
+Sub-region Name;Eastern Asia
+Sub-region Name;Eastern Europe
+Sub-region Name;Latin America and the Caribbean
+Sub-region Name;Melanesia
+Sub-region Name;Micronesia
+Sub-region Name;Northern Africa
+Sub-region Name;Northern America
+Sub-region Name;Northern Europe
+Sub-region Name;Polynesia
+Sub-region Name;South-eastern Asia
+Sub-region Name;Southern Asia
+Sub-region Name;Southern Europe
+Sub-region Name;Sub-Saharan Africa
+Sub-region Name;Western Asia
+Sub-region Name;Western Europe
