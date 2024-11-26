@@ -1,16 +1,16 @@
-preferred_field_name,raw_field_name,in_use,is_unique_column,is_primary_key,distinct_count,valid_count,invalid_count
-Global Code,Global Code,TRUE,FALSE,FALSE,1,249,0
-Global Name,Global Name,TRUE,FALSE,FALSE,1,249,0
-Region Code,Region Code,TRUE,FALSE,FALSE,6,248,1
-Region Name,Region Name,TRUE,FALSE,FALSE,6,248,1
-Sub-region Code,Sub-region Code,TRUE,FALSE,FALSE,18,248,1
-Sub-region Name,Sub-region Name,TRUE,FALSE,FALSE,18,248,1
-Intermediate Region Code,Intermediate Region Code,TRUE,FALSE,FALSE,9,108,141
-Intermediate Region Name,Intermediate Region Name,TRUE,FALSE,FALSE,9,108,141
-Country or Area,Country or Area,TRUE,TRUE,FALSE,249,249,0
-M49 Code,M49 Code,TRUE,TRUE,FALSE,249,249,0
-ISO-alpha3 Code,ISO-alpha3 Code,TRUE,TRUE,FALSE,249,248,1
-Least Developed Countries (LDC),Least Developed Countries (LDC),TRUE,FALSE,FALSE,2,47,202
-Land Locked Developing Countries (LLDC),Land Locked Developing Countries (LLDC),TRUE,FALSE,FALSE,2,32,217
-Small Island Developing States (SIDS),Small Island Developing States (SIDS),TRUE,FALSE,FALSE,2,53,196
-Developed / Developing Countries,Developed / Developing Countries,TRUE,FALSE,FALSE,3,248,1
+preferred_field_name;raw_field_name;in_use;is_unique_column;is_primary_key;distinct_count;valid_count;invalid_count
+Global Code;Global Code;TRUE;FALSE;FALSE;1;249;0
+Global Name;Global Name;TRUE;FALSE;FALSE;1;249;0
+Region Code;Region Code;TRUE;FALSE;FALSE;6;248;1
+Region Name;Region Name;TRUE;FALSE;FALSE;6;248;1
+Sub-region Code;Sub-region Code;TRUE;FALSE;FALSE;18;248;1
+Sub-region Name;Sub-region Name;TRUE;FALSE;FALSE;18;248;1
+Intermediate Region Code;Intermediate Region Code;TRUE;FALSE;FALSE;9;108;141
+Intermediate Region Name;Intermediate Region Name;TRUE;FALSE;FALSE;9;108;141
+Country or Area;Country or Area;TRUE;TRUE;FALSE;249;249;0
+M49 Code;M49 Code;TRUE;TRUE;FALSE;249;249;0
+ISO-alpha3 Code;ISO-alpha3 Code;TRUE;TRUE;FALSE;249;248;1
+Least Developed Countries (LDC);Least Developed Countries (LDC);TRUE;FALSE;FALSE;2;47;202
+Land Locked Developing Countries (LLDC);Land Locked Developing Countries (LLDC);TRUE;FALSE;FALSE;2;32;217
+Small Island Developing States (SIDS);Small Island Developing States (SIDS);TRUE;FALSE;FALSE;2;53;196
+Developed / Developing Countries;Developed / Developing Countries;TRUE;FALSE;FALSE;3;248;1
