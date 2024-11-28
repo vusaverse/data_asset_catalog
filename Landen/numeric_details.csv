@@ -2,15 +2,15 @@ preferred_field_name;min;max;q1;median;q3;mean;sd
 Global Code;001;001;1;1;1;1,0;0,0
 Global Name;World;World;NA;NA;NA;NA;NA
 Region Code;002;150;9;19;142;66,0;67,4
-Region Name;Africa;Oceania;NA;NA;NA;NA;NA
+BUI_VN_regio;Africa;Oceania;NA;NA;NA;NA;NA
 Sub-region Code;015;419;54;154;202;180,0;138,0
-Sub-region Name;Australia and New Zealand;Western Europe;NA;NA;NA;NA;NA
+BUI_VN_subregio;Australia and New Zealand;Western Europe;NA;NA;NA;NA;NA
 Intermediate Region Code;005;830;11;14;29;39,1;135,0
-Intermediate Region Name;Caribbean;Western Africa;NA;NA;NA;NA;NA
-Country or Area;Afghanistan;Zimbabwe;NA;NA;NA;NA;NA
+BUI_VN_tussenregio;Caribbean;Western Africa;NA;NA;NA;NA;NA
+BUI_VN_land;Afghanistan;Zimbabwe;NA;NA;NA;NA;NA
 M49 Code;004;894;222;438;654;436,0;253,0
-ISO-alpha3 Code;ABW;ZWE;NA;NA;NA;NA;NA
-Least Developed Countries (LDC);x;x;NA;NA;NA;NA;NA
+BUI_VN_landcode_ISO_alpha3;ABW;ZWE;NA;NA;NA;NA;NA
+BUI_VN_minst_ontwikkelde_landen;x;x;NA;NA;NA;NA;NA
 Land Locked Developing Countries (LLDC);x;x;NA;NA;NA;NA;NA
 Small Island Developing States (SIDS);x;x;NA;NA;NA;NA;NA
-Developed / Developing Countries;Developed;Developing;NA;NA;NA;NA;NA
+BUI_VN_ontwikkelingsland;Developed;Developing;NA;NA;NA;NA;NA
