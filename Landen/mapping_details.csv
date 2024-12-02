@@ -1,0 +1,16 @@
+preferred_field_name;has_mapping;mapping_name
+Global Code;FALSE;NA
+Global Name;FALSE;NA
+Region Code;FALSE;NA
+BUI_VN_regio;FALSE;NA
+Sub-region Code;FALSE;NA
+BUI_VN_subregio;FALSE;NA
+Intermediate Region Code;FALSE;NA
+BUI_VN_tussenregio;FALSE;NA
+BUI_VN_land;FALSE;NA
+M49 Code;FALSE;NA
+BUI_VN_landcode_ISO_alpha3;FALSE;NA
+BUI_VN_minst_ontwikkelde_landen;FALSE;NA
+Land Locked Developing Countries (LLDC);FALSE;NA
+Small Island Developing States (SIDS);FALSE;NA
+BUI_VN_ontwikkelingsland;FALSE;NA
