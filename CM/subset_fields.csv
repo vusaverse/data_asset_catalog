@@ -1,0 +1,55 @@
+column_name;value
+COM_Faculteit;Amsterdam University College
+COM_Faculteit;Faculteit Religie en Theologie
+COM_Faculteit;Faculteit der Betawetenschappen
+COM_Faculteit;Faculteit der Gedrags- en Bewegingswetenschappen
+COM_Faculteit;Faculteit der Geesteswetenschappen
+COM_Faculteit;Faculteit der Geneeskunde
+COM_Faculteit;Faculteit der Rechtsgeleerdheid
+COM_Faculteit;Faculteit der Sociale Wetenschappen
+COM_Faculteit;Faculteit der Tandheelkunde (ACTA)
+COM_Faculteit;International Office
+COM_Faculteit;Protestantse Theologische Universiteit
+COM_Faculteit;School of Business and Economics
+COM_Faculteit;Student en Onderwijszaken
+COM_Fase;bachelor
+COM_Fase;master
+COM_Fase;premaster
+COM_Geslacht;0
+COM_Geslacht;M
+COM_Geslacht;O
+COM_Geslacht;V
+COM_Landcode;NL
+COM_Provincie;A
+COM_Provincie;B
+COM_Provincie;D
+COM_Provincie;E
+COM_Provincie;G
+COM_Provincie;H
+COM_Provincie;K
+COM_Provincie;L
+COM_Provincie;M
+COM_Provincie;P
+COM_Provincie;S
+COM_Provincie;X
+COM_Soort;Februaridag
+COM_Soort;Masteravond
+COM_Soort;Masterdag
+COM_Soort;Meeloopdagen
+COM_Soort;Novemberdag
+COM_Soort;Proefstuderen
+COM_Soort;Voorlichtingsevenementen
+COM_Status;Annulering door VU
+COM_Status;Annulering door relatie
+COM_Status;CANCELLED
+COM_Status;CANCELLED_USER
+COM_Status;CONFIRMED
+COM_Status;Niet aanwezig
+COM_Status;Niet gereageerd
+COM_Status;Onbekend
+COM_Status;UPDATED
+COM_Status;Wel aanwezig
+COM_Wervingsjaar;2018/2019
+COM_Wervingsjaar;2019/2020
+COM_Wervingsjaar;2020/2021
+COM_Wervingsjaar;2021/2022

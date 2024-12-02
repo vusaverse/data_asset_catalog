@@ -1,0 +1,34 @@
+preferred_field_name;min;max;q1;median;q3;mean;sd
+COM_Sellnr;NA;NA;NA;NA;NA;NA;NA
+COM_Studentnummer;NA;NA;NA;NA;NA;NA;NA
+COM_Vunet_id;NA;NA;NA;NA;NA;NA;NA
+COM_Geslacht;0;V;NA;NA;NA;NA;NA
+COM_Geboortedatum;-840067200;1575244800;NA;NA;NA;NA;NA
+COM_Landcode;NL;NL;NA;NA;NA;NA;NA
+COM_Woonplaats;'S-GRAVELAND;ZWOLLE;NA;NA;NA;NA;NA
+COM_Postcode;0;TS18 3UL;NA;NA;NA;NA;NA
+COM_Provincie;A;X;NA;NA;NA;NA;NA
+COM_Soort;Februaridag;Voorlichtingsevenementen;NA;NA;NA;NA;NA
+COM_Korte_Naam_Product;0 Kickoff NL EFEB;XM_SBI EN EMD;NA;NA;NA;NA;NA
+COM_Voorlichting_Product;Aarde;Zij-instroomprogramma Geneeskunde ( Zigma);NA;NA;NA;NA;NA
+COM_Versiecode;EFEB_20190209;EVEV_20190619;NA;NA;NA;NA;NA
+COM_Aanvraagdatum;1538611200;1643673600;NA;NA;NA;NA;NA
+COM_Status;Annulering door relatie;Wel aanwezig;NA;NA;NA;NA;NA
+COM_Wervingsjaar;2018/2019;2021/2022;NA;NA;NA;NA;NA
+COM_Studiecode;AB_A&E;XM_SFM;NA;NA;NA;NA;NA
+COM_Isat_Code;50007;75040;56034;56615;60084,0;57323;4790,00
+COM_Opleiding;B Aarde en Economie B Aarde;RM Social Psychology;NA;NA;NA;NA;NA
+COM_Faculteit;Amsterdam University College;Student en Onderwijszaken;NA;NA;NA;NA;NA
+COM_Fase;bachelor;premaster;NA;NA;NA;NA;NA
+COM_Vooropleiding_Aks;26;Zeugnis der Allgemeinen Hochschulreife;NA;NA;NA;NA;NA
+COM_Vestigingsnummer_Brin;00AH00;31CH00;NA;NA;NA;NA;NA
+COM_Landscode_Internationale;AD;ZW;NA;NA;NA;NA;NA
+COM_Verwacht_Startjaar;2019;2027;2020;2021;2021,0;2021;1,08
+COM_Examenjaar;2008;2026;2019;2020;2021,0;2020;2,00
+COM_International_Werving;1;1;1;1;1,0;1;0,00
+COM_International_Lead;1;1;NA;NA;NA;NA;NA
+COM_International_Student;1;1;1;1;1,0;1;0,00
+COM_Aangemeld;1;1;1;1;1,0;1;0,00
+COM_Ingeschreven;1;1;NA;NA;NA;NA;NA
+COM_Afgewezen;1;1;NA;NA;NA;NA;NA
+COM_Aantal;1;1;1;1;1,0;1;0,00

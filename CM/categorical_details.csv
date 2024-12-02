@@ -1,0 +1,21 @@
+preferred_field_name;category_1;percent_1;category_2;percent_2;category_3;percent_3;category_4;percent_4;category_5;percent_5
+COM_Sellnr;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Vunet_id;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Geslacht;V;68.2;M;31.5;NA;NA;NA;NA;NA;NA
+COM_Landcode;NL;89.59;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Woonplaats;AMSTERDAM;15.34;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Postcode;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Provincie;L;44.19;H;14.32;M;12.27;G;5.58;NA;NA
+COM_Soort;Novemberdag;39.19;Februaridag;17.83;Masterdag;15.26;Masteravond;15.21;Proefstuderen;6.16
+COM_Korte_Naam_Product;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Voorlichting_Product;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Versiecode;ENOV_20201030;8.67;EMAV_20201201;7.55;ENOV_20211105;6.48;EFEB_20200208;6.33;ENOV_20191102;6.14
+COM_Status;CONFIRMED;37.19;Onbekend;23.32;Wel aanwezig;21;Niet aanwezig;6.53;NA;NA
+COM_Wervingsjaar;2020/2021;30.67;2019/2020;28.86;2018/2019;21.64;2021/2022;8.8;NA;NA
+COM_Studiecode;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Opleiding;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Faculteit;Faculteit der Betawetenschappen;24.09;School of Business and Economics;16.3;Faculteit der Gedrags- en Bewegingswetenschappen;12.1;Faculteit der Rechtsgeleerdheid;11.1;Faculteit der Sociale Wetenschappen;8.99
+COM_Fase;bachelor;58.41;master;24.91;NA;NA;NA;NA;NA;NA
+COM_Vooropleiding_Aks;Vwo NG;16.67;Universiteit;16.17;Vwo EM;15.54;Vwo NT;13.97;HBO;7.13
+COM_Vestigingsnummer_Brin;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+COM_Landscode_Internationale;NL;72.56;NA;NA;NA;NA;NA;NA;NA;NA
