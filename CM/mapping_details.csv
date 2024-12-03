@@ -7,7 +7,7 @@ COM_Geboortedatum;FALSE;NA
 COM_Landcode;FALSE;NA
 COM_Woonplaats;FALSE;NA
 COM_Postcode;FALSE;NA
-COM_Provincie;FALSE;NA
+COM_Provincie;TRUE;Mapping_CM_P
 COM_Soort;FALSE;NA
 COM_Korte_Naam_Product;FALSE;NA
 COM_Voorlichting_Product;FALSE;NA
